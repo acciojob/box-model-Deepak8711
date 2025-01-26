@@ -9,17 +9,17 @@
  justify-content:space-between;
  background-color:grey;
 }
-.c1{
+.green{
 	border:50px solid green;
 	border-radius:50%
 }
-.c2
+.yellow
 {
 	border:50px solid yellow;
 	border-radius:50%
 }
 
-.c3
+.red
 {
 	border:50px solid red;
 	border-radius:50%
