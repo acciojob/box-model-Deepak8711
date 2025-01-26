@@ -8,6 +8,11 @@
 	border-radius:40px;
  justify-content:space-between;
  background-color:grey;
+ .red
+{   
+	border:50px solid rgb(255, 0, 0);
+	border-radius:50%
+}
 }
 .green{
 	border:50px solid green;
@@ -19,8 +24,3 @@
 	border-radius:50%
 }
 
-.red
-{   
-	border:50px solid rgb(255, 0, 0);
-	border-radius:50%
-}
