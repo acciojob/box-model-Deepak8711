@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+.container
+{    display:flex;
+	align-items:center;
+	border:5px solid black;
+	padding:50px;
+	width:60%;
+	border-radius:40px;
+ justify-content:space-between;
+ background-color:grey;
+}
+.c1{
+	border:50px solid green;
+	border-radius:50%
+}
+.c2
+{
+	border:50px solid yellow;
+	border-radius:50%
+}
+
+.c3
+{
+	border:50px solid red;
+	border-radius:50%
+}
