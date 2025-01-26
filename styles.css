@@ -18,11 +18,13 @@
 
 .green{
 	border:50px solid green;
-	border-radius:50%
+	border-radius:50%;
+	 background-color: green;
 }
 .yellow
 {
 	border:50px solid yellow;
-	border-radius:50%
+	border-radius:50%;
+	 background-color: yellow;
 }
 
