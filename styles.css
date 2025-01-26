@@ -20,7 +20,7 @@
 }
 
 .red
-{
-	border:50px solid red;
+{   
+	border:50px solid rgb(255, 0, 0);
 	border-radius:50%
 }
